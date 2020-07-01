@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">intent_sederhana</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="this_move_activity">Ini Move Activity</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity dengan data</string>
+    <string name="data_dikirim">data dikirim</string>
 </resources>
