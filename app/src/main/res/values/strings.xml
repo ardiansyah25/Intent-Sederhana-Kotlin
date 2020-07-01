@@ -4,4 +4,6 @@
     <string name="this_move_activity">Ini Move Activity</string>
     <string name="pindah_activity_dengan_data">Pindah Activity dengan data</string>
     <string name="data_dikirim">data dikirim</string>
+    <string name="pindah_acitvity_dengan_parcelable">Pindah Acitvity dengan Parcelable</string>
+    <string name="object_di_terima">object di terima</string>
 </resources>
